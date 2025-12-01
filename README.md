@@ -1,16 +1,28 @@
-# github-profile-summary-cards-example
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hola, soy Yerson Sanchez! 
 
-:star: [Tutorial](https://github.com/vn7n24fzkq/github-profile-summary-cards/wiki/Tutorial) ( Recommendation ) :star:
 
-Action already setup In this template, you just need click `use this template` button to create your repo and wait for workflow to finish.
+### Software Engineer | Backend Developer
 
-```To create your profile README you need to name the repo as your username```
+Software Enginner con enfoque en desarrollo Backend con experiencia en diseño de APIs REST, modelado
+relacional y NoSQL, seguridad, manejo de pipelines ETL, automatizacion y Scraping. Disfruto resolviendo
+desafíos complejos y construyendo soluciones con un enfoque en la confiabilidad y la performance.
 
-| :bell: | Don't forget to modify the image (All of images are in `profile-summary-card-output` folder). |
-| :-------: | :-------------------------------------------------------------------------------------------------------- |
 
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+## 💻 Tecnologías & Tools
 
-[More Info](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,py,cs,kotlin,javascript,spring,django,dotnet,postgresql,mongodb,redis,react,git,docker,aws" />
+  </a>
+</p>
+
+---
+
+## 📊 Estadísticas en GitHub
+
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sogeking-pixel&theme=tokyonight-duo&hide_border=true&short_numbers=true&card_width=497" alt="GitHub Streak" /></a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="https://raw.githubusercontent.com/sogeking-pixel/sogeking-pixel/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="GitHub Streak" /></a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="https://raw.githubusercontent.com/sogeking-pixel/sogeking-pixel/master/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="GitHub Streak" /></a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="https://raw.githubusercontent.com/sogeking-pixel/sogeking-pixel/master/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="GitHub Streak" /></a>
+</p>
