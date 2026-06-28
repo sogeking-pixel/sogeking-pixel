@@ -12,7 +12,7 @@ desafíos complejos y construyendo soluciones con un enfoque en la confiabilidad
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,cs,kotlin,javascript,spring,django,dotnet,postgresql,mongodb,redis,react,git,docker,aws" />
+    <img src="https://skillicons.dev/icons?i=java,py,cs,kotlin,javascript,spring,fastapi,dotnet,postgresql,mongodb,redis,react,git,docker,aws" />
   </a>
 </p>
 
